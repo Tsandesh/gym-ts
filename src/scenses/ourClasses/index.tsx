@@ -21,7 +21,7 @@ const classes: Array<ClassType> = [
     image: image1,
   },
   {
-    name: "Yoga Training Classes",
+    name: "Yoga Training Classes.",
     description:
       " Nascetur aenean massa auctor tincidunt. Iaculis potenti ametegestas ultrices consectetur adipiscing ultricies enim. Pulvinar fames vitae vitae quis. Quis amet vulputate tincidunt at in nulla nec. Consequat sed facilisis dui sit egestas ultrices",
     image: image2,
