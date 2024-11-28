@@ -14,6 +14,7 @@ const childrenVariant = {
   visible: { opacity: 1, scale: 1 },
 };
 
+// this is benifits page
 const Benifit = ({ icon, title, description, setSelectedPage }: Props) => {
   return (
     <motion.div
